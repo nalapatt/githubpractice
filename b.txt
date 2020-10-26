@@ -1,2 +1,4 @@
 i have changed the b txt here in mergebranch
 making more changes from egit
+making more changes here in branch
+now the changes are made in master
