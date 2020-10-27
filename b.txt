@@ -1,4 +1,8 @@
 i have changed the b txt here in mergebranch
 making more changes from egit
+<<<<<<< HEAD
 making more changes here in branch
 now the changes are made in master
+=======
+making some more changes in develop
+>>>>>>> refs/heads/develop

@@ -3,4 +3,8 @@
 making changes in github
 making changed again here in github
 making changes in egit
+<<<<<<< HEAD
 these changes are made in the branch
+=======
+making more changes in develop
+>>>>>>> refs/heads/develop
